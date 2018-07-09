@@ -3,6 +3,8 @@ ReShade FX shaders
 
 This repository aims to collect post-processing shaders written in the ReShade FX shader language.
 
+In particular this repository is focused on reworking those shaders to include the depth linearization technique from [BlueSkyDefender/Depth3D](https://github.com/BlueSkyDefender/Depth3D)!
+
 Installation
 ------------
 
